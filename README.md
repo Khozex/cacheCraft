@@ -48,10 +48,6 @@ To get started with cacheCraft, follow these steps:
 - Redis (for caching)
 - UUID (for generating task IDs)
 
-## Contribution
-
-Contributions to cacheCraft are welcome! If you have ideas for improvements or new features, feel free to submit a pull request.
-
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
